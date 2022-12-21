@@ -8,7 +8,7 @@ pkg install python
 
 pkg install git
 
-git clone https://github.com/FLAME-1x/Old-Clone.git
+git clone https://github.com/Flame-Noob/Flame-2004.git
 
 cd Old-Clone
 
